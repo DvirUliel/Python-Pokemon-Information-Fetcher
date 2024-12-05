@@ -22,10 +22,10 @@ A Python script to fetch and display details about Pokémon using the [PokéAPI]
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/DvirUliel/pokemon-fetcher.git
+   git clone https://github.com/DvirUliel/Python-Pokemon-Information-Fetcher.git
 2. Navigate to the project directory:
    ```bash
-   cd pokemon-fetcher
+   cd Python-Pokemon-Information-Fetcher
 3. Run the script:
    ```bash
    python Project.py
